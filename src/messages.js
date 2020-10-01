@@ -49,5 +49,14 @@ export const messages = [
     name: "Aaron",
     coverImg: "./aaronlam.png",
     profileImg: "./aaronlam.jpeg",
-  }
+  },
+  {
+    title: "Farewell master Bui!",
+    msg:
+      "Thank you master Bui, you help me a lot on each side. Wish you have a better life in the future!",
+    rel: "Yoooo Buuuuui",
+    name: "Ayao Hsu",
+    coverImg: "./ayaocover.jpg",
+    profileImg: "./ayaoprofile.jpeg",
+  },
 ];
